@@ -23,4 +23,6 @@ notification:
   1. `before_install` 을 통해 `chmod` 를 런타임에 우선 수행
   2. 애초에 gradlew 파일에 대한 실행 권한을 `chmod` 로 변경
     1. `git update-index --chmod=+x gradlew`
-  3. [관련링크](https://stackoverflow.com/questions/33820638/travis-yml-gradlew-permission-denied/33820642)
+ 
+ ## REF
+ [관련링크](https://stackoverflow.com/questions/33820638/travis-yml-gradlew-permission-denied/33820642)
