@@ -36,3 +36,4 @@ after_script:
  
  ## REF
  [관련링크](https://stackoverflow.com/questions/33820638/travis-yml-gradlew-permission-denied/33820642)
+ [travis job life cycle](https://docs.travis-ci.com/user/job-lifecycle/#the-job-lifecycle)
