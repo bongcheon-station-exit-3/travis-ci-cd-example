@@ -35,5 +35,5 @@ after_script:
         1. `git update-index --chmod=+x gradlew`
  
  ## REF
- [관련링크](https://stackoverflow.com/questions/33820638/travis-yml-gradlew-permission-denied/33820642)
- [travis job life cycle](https://docs.travis-ci.com/user/job-lifecycle/#the-job-lifecycle)
+ - [관련링크](https://stackoverflow.com/questions/33820638/travis-yml-gradlew-permission-denied/33820642)
+ - [travis job life cycle](https://docs.travis-ci.com/user/job-lifecycle/#the-job-lifecycle)
