@@ -16,8 +16,8 @@ script:
     - echo "Hello World"
     - ./gradlew build
 
-after_script:
-    - echo "After Scrpt"
-
 after_success:
     - echo "After Success"
+
+after_script:
+    - echo "After Scirpt"
