@@ -1,8 +1,0 @@
-languge: java
-jdk:
-    - openjdk8
-
-script: ./gradlew build
-
-notification:
-    email: oraedoa@gmail.com
