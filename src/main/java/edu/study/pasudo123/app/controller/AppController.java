@@ -9,6 +9,11 @@ import java.time.format.DateTimeFormatter;
 @RestController
 public class AppController {
 
+    @GetMapping
+    public String index() {
+        return "index";
+    }
+
     @GetMapping("/time")
     public String nowTime() {
 
